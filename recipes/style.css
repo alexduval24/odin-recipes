@@ -1,0 +1,12 @@
+h1,
+h2,
+h3 {
+    background-color: antiquewhite;
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+}
+
+.subH {
+    background-color: azure;
+    font-size: 20px;
+}
